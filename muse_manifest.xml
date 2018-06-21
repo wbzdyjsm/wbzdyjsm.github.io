@@ -1,0 +1,76 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="baidu.com" resolutions="1x" timestamp="1529575725884">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="____.css" crc="4073984976" ref="个人简介"/>
+    <file name="nomq_____.css" crc="3991813828" ref="个人简介"/>
+    <file name="____1.css" crc="25550082" ref="我的作品"/>
+    <file name="nomq_____1.css" crc="158496141" ref="我的作品"/>
+    <file name="index.css" crc="277687385" ref="index"/>
+    <file name="nomq_index.css" crc="39733795" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:个人简介:我的作品"/>
+    <file name="museutils.js" crc="163421577" ref="index:个人简介:我的作品"/>
+    <file name="whatinput.js" crc="86476730" ref="index:个人简介:我的作品"/>
+    <file name="museconfig.js" crc="36584860" ref="index:个人简介:我的作品"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:个人简介:我的作品"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index:个人简介:我的作品"/>
+    <file name="require.js" crc="244322403" ref="index:个人简介:我的作品"/>
+  </folder>
+  <folder name="images">
+    <file name="圣诞小丁.png" crc="467071577" seo="true" ref="index"/>
+    <file name="oval 4 copy@2x.png" crc="298496268" seo="true" ref="index:个人简介:我的作品"/>
+    <file name="oval 4 copy@2x-crop-u942.png" crc="3812438806" ref="index"/>
+    <file name="shouyezuopin3.png" crc="532348363" seo="true" ref="index"/>
+    <file name="shouyelansechengzi.jpg" crc="302462028" seo="true" ref="index"/>
+    <file name="welcome@2x.png" crc="321474959" seo="true" ref="index"/>
+    <file name="this is xiaoding@2x.png" crc="4225359883" seo="true" ref="index"/>
+    <file name="erweima.png" crc="453521224" seo="true" ref="index"/>
+    <file name="zhuye1.png" crc="56019832" seo="true" ref="index"/>
+    <file name="gerenjianjie1.png" crc="4267833382" seo="true" ref="index"/>
+    <file name="copyright © 2018 din@2x.png" crc="3846902654" seo="true" ref="index"/>
+    <file name="shouyezuopin2.png" crc="416380290" seo="true" ref="index"/>
+    <file name="wodezuopin1.png" crc="58107780" seo="true" ref="index"/>
+    <file name="shouyezuopin1.png" crc="3929788206" seo="true" ref="index"/>
+    <file name="oval 4 copy@2x-crop-u610.png" crc="3876316820" ref="index"/>
+    <file name="shouyelansechengzi-crop-u94.jpg" crc="4019744473" ref="index"/>
+    <file name="圣诞小丁443x591.png" crc="1263335" seo="true" ref="index"/>
+    <file name="shouyelansechengzi-crop-u942.jpg" crc="488718613" ref="index"/>
+    <file name="shouyelansechengzi-crop-u943.jpg" crc="4102065267" ref="index"/>
+    <file name="圣诞小丁313x417.png" crc="4053488202" seo="true" ref="index"/>
+    <file name="shouyelansechengzi-crop-u944.jpg" crc="343789355" ref="index"/>
+    <file name="圣诞小丁236x315.png" crc="4067778418" seo="true" ref="index"/>
+    <file name="shouyelansechengzi-crop-u945.jpg" crc="749776" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:个人简介:我的作品"/>
+    <file name="aboutme.png" crc="3889699255" seo="true" ref="个人简介"/>
+    <file name="qiche.png" crc="457948000" seo="true" ref="个人简介"/>
+    <file name="fangikuai.jpg" crc="513295918" seo="true" ref="个人简介"/>
+    <file name="kuohao2.png" crc="4102174163" seo="true" ref="个人简介"/>
+    <file name="kuohao1.png" crc="45670703" seo="true" ref="个人简介"/>
+    <file name="ziwojieshao1@2x.png" crc="4189721750" seo="true" ref="个人简介"/>
+    <file name="ziwojieshao2.png" crc="260339216" seo="true" ref="个人简介"/>
+    <file name="ziwojieshao3.png" crc="4220422489" seo="true" ref="个人简介"/>
+    <file name="ziwojiesh4.png" crc="37130626" seo="true" ref="个人简介"/>
+    <file name="copyright © 2018 din@2x2.png" crc="3759105852" seo="true" ref="个人简介:我的作品"/>
+    <file name="yazi.png" crc="4281545229" seo="true" ref="个人简介"/>
+    <file name="2zhuye.png" crc="273624913" seo="true" ref="个人简介:我的作品"/>
+    <file name="2jianjie.png" crc="328092502" seo="true" ref="个人简介:我的作品"/>
+    <file name="wanju.png" crc="151040484" seo="true" ref="个人简介"/>
+    <file name="2zuopin.png" crc="3823854974" seo="true" ref="个人简介:我的作品"/>
+    <file name="qiche251x441.png" crc="342649608" seo="true" ref="个人简介"/>
+    <file name="wanju219x195.png" crc="3944182651" seo="true" ref="个人简介"/>
+    <file name="qiche224x395.png" crc="528744174" seo="true" ref="个人简介"/>
+    <file name="qiche151x266.png" crc="4238093269" seo="true" ref="个人简介"/>
+    <file name="wanju164x147.png" crc="4146462079" seo="true" ref="个人简介"/>
+    <file name="shouyezuopin12.png" crc="468637106" seo="true" ref="我的作品"/>
+    <file name="zuopin6.png" crc="314644241" seo="true" ref="我的作品"/>
+    <file name="myworks.png" crc="62387986" seo="true" ref="我的作品"/>
+    <file name="shouyezuopin32.png" crc="3972129581" seo="true" ref="我的作品"/>
+    <file name="zuopin4.png" crc="278733385" seo="true" ref="我的作品"/>
+    <file name="shouyezuopin22.png" crc="4134037935" seo="true" ref="我的作品"/>
+    <file name="zuopin5.png" crc="4030930668" seo="true" ref="我的作品"/>
+  </folder>
+  <file name="index.html" crc="295662224" seo="true" mt="1529575557425" redirect="true"/>
+  <file name="个人简介.html" crc="347885148" seo="true" mt="1529575445277" redirect="true"/>
+  <file name="我的作品.html" crc="172962636" seo="true" mt="1529575675300" redirect="true"/>
+</manifest>
