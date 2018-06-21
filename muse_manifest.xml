@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="baidu.com" resolutions="1x" timestamp="1529575725884">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="baidu.com" resolutions="1x" timestamp="1529576191438">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="____.css" crc="4073984976" ref="个人简介"/>
@@ -70,7 +70,7 @@
     <file name="shouyezuopin22.png" crc="4134037935" seo="true" ref="我的作品"/>
     <file name="zuopin5.png" crc="4030930668" seo="true" ref="我的作品"/>
   </folder>
-  <file name="index.html" crc="295662224" seo="true" mt="1529575557425" redirect="true"/>
-  <file name="个人简介.html" crc="347885148" seo="true" mt="1529575445277" redirect="true"/>
-  <file name="我的作品.html" crc="172962636" seo="true" mt="1529575675300" redirect="true"/>
+  <file name="index.html" crc="295662224" seo="true" mt="1529576143126" redirect="true"/>
+  <file name="个人简介.html" crc="347885148" seo="true" mt="1529576057448" redirect="true"/>
+  <file name="我的作品.html" crc="3918835241" seo="true" mt="1529576107112" redirect="true"/>
 </manifest>
